@@ -1,0 +1,3 @@
+[submodule "FirstFolder/SubFolder"]
+	path = FirstFolder/SubFolder
+	url = https://github.com/carbitello/SubmoduleRepositorySSP.git
